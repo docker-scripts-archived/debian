@@ -7,6 +7,6 @@ _EOF
 }
 
 cmd_config() {
-    ds inject set_prompt.sh
-    ds inject cfg.sh
+    ds inject debian-fixes.sh
+    ds inject setup.sh
 }

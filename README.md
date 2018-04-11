@@ -1,5 +1,4 @@
-# debian
-Minimal Debian container.
+# Minimal Debian container
 
 ## Installation
 
@@ -13,3 +12,19 @@ Minimal Debian container.
 
   - Build image, create the container and configure it: `ds make`
 
+## Maintenance
+
+```
+ds stop
+ds start
+ds shell
+ds help
+
+# to-do
+ds backup
+ds restore
+ds remake
+
+ds update
+ds upgrade
+```
