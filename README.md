@@ -12,19 +12,11 @@
 
   - Build image, create the container and configure it: `ds make`
 
-## Maintenance
+## Other commands
 
 ```
 ds stop
 ds start
 ds shell
 ds help
-
-# to-do
-ds backup
-ds restore
-ds remake
-
-ds update
-ds upgrade
 ```
